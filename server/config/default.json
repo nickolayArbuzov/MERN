@@ -1,0 +1,4 @@
+{
+    "serverPort" : 3001,
+    "dbURL" : "mongodb+srv://Nick:111111Qq@cluster0.w1a5t.mongodb.net/MERN?retryWrites=true&w=majority"
+}
